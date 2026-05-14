@@ -21,7 +21,9 @@
         "rulePack",
 
         "ingestCommandString",
-        "ingestReportString"
+        "ingestReportString",
+        "discoveredLetterText",
+        "spawnOnInteractionCell"
     ],
     "maybe_children_have_needed_translate_tags": [
         "comps",
